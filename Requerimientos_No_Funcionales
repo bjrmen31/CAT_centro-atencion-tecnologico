@@ -1,0 +1,31 @@
+# Requerimientos No Funcionales
+
+## RNF-01 – Seguridad  
+El sistema debe proteger datos mediante encriptación de contraseñas y autenticación segura.
+
+## RNF-02 – Disponibilidad  
+El sistema debe estar disponible al menos el 99% del tiempo.
+
+## RNF-03 – Rendimiento  
+Las vistas principales deben cargar en menos de 3 segundos.
+
+## RNF-04 – Escalabilidad  
+El sistema debe soportar aumento de usuarios sin degradación significativa.
+
+## RNF-05 – Usabilidad  
+La interfaz debe ser intuitiva y fácil de usar para todo tipo de usuarios.
+
+## RNF-06 – Compatibilidad  
+El sistema debe funcionar correctamente en navegadores modernos como Chrome, Edge y Firefox.
+
+## RNF-07 – Mantenibilidad  
+El código debe estar organizado para facilitar actualizaciones o mejoras futuras.
+
+## RNF-08 – Trazabilidad  
+Toda acción sobre un ticket debe quedar registrada en el historial del sistema.
+
+## RNF-09 – Integridad de datos  
+La información almacenada debe mantenerse libre de alteraciones no autorizadas.
+
+## RNF-10 – Respaldo  
+El sistema debe realizar copias de seguridad automáticas de la base de datos de forma periódica.
